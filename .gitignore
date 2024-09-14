@@ -1,0 +1,15 @@
+# Ignorer le dossier des paramètres de VSCode
+.vscode/
+
+# Ignorer le dossier des dépendances
+node_modules/
+
+# Ignorer les fichiers log
+*.log
+
+# Ignorer les fichiers d'environnement contenant des infos sensibles
+.env
+
+# Ignorer les fichiers temporaires ou de cache
+*.tmp
+*.cache
